@@ -8,13 +8,12 @@ Choose the windows installer option, It is free but it will ask you if you want 
 1) Click on the green Clone or Download Button, then click Download ZIP.
 2) Download the file and open it, then drag the contents of the folder on to your desktop or other file location.
 3) Open the RobotCarPrograms folder
-/*
+
  * Note between steps 3 and 4, we used two different types of ultra sonic sensors on the cars and it changes the
  * code you need to use. I will be updating this on 7/31/2018 with a better way to distinguish them, because I do
  * not currently have one with me. One way to distinguish them however, is if the ultra sonic sensor on the front of
  * your car has a tiny gray box between sound emitter/reciever on the front you use the RobotCarFinalProject Code.
  * If it does not have the tiny gray box you use the RobotCarFinalWithSensorV2 code.
- */
  
  4) If you have the tiny gray box on the ultra sonic sensor, go under the RobotCarFinalProject folder and double click
     on the .ino file
