@@ -30,4 +30,4 @@ Choose the windows installer option, It is free but it will ask you if you want 
  10) Click on the sideways arrow next to the checkmark to upload code to the car.
  
 GitHub can be a pain to use and we will be updating the documentation here soon to make it better as well as creating
-a google drive link to download and better instructions shortly.
+a google drive link to download code and better instructions shortly.
